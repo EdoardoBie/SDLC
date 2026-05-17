@@ -1,0 +1,6 @@
+{
+  "name": "SDLC Presentazione",
+  "description": "Una presentazione semplice e interattiva sul ciclo di vita del software.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
